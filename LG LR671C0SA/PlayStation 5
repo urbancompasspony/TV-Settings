@@ -1,16 +1,43 @@
-On TV search and find for HGiG settings about HDR.
-Turn ON Gamer Mode and search and find HGiG for gaming!
+DENTRO DO PS5! Se acessar via outro periferico na HDMI a TV não libera a opção HGiG
+CONFIGURAÇÃO OTIMIZADOR GAMER
+
+Brilho 50
+Gamma 2.2
+Cor >
+Profundidade 55
+Gamma de Cores NATIVO
+
+Ajuste Fino >
+Ajuste de Cores MEDIO
+
+Balanço de Branco >
+Temp 0
+
+Clareza nao mude nada
+
+Configuração, GERAL, Otimizador Gamer
+Ligar nos 3 menus gamers roxos.
+
+Game >
+Modo Ambiente Escuro 1
+
+Image >
+Estabilizador Preto 10
+Estabilizador Branco 10
+Contraste 100
+Ajustar Nitidez 20
+Produndidade de Cor 50
+Mapeamento de Tom Dinamico HGiG
 
 Back to PS5 Settings, change HDR.
 
-Congratulations, this is the gold standard, you should absolutely use HGiG.
 You need to find out your TV's maximum luminance output by looking for reviews online, and use the table below to find the accurate value to choose in the PS5's "Adjust HDR" menu.
 Use that value for the first two screens, and zero for the third one. If you can still see the sun in the first two panels, you should keep increasing the value until you can't see it anymore.
 As soon as you can't see it, you're done
 
-First barely visible.
-Second barely visible.
-
+Try the 16th click (1000 nits). If you can't see the sun, you're most likely done.
 If you can still see the sun, then try the 25th click (4000 nits). If you can't see the sun, you're most likely done.
-(Mina was 22!) See it? 1 before it desappears.
+If you can still see the sun, you should almost certainly use the maximum value (31st click, 10000 nits).
+Mina was 21, with 22 the sun appeared! Same to second setting. Still see it? Tap 1 before it desappears.
+
 The third one is zero.
