@@ -26,4 +26,6 @@
 
 14 - It will redirect you for the TOS screen like in the first time that you turn on your TV, just accept that shit
 
+14.1 - Disable ipv6
+
 15 - I was able to login again now :)
