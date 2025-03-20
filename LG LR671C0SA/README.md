@@ -28,4 +28,6 @@
 
 14.1 - Disable ipv6
 
+14.2 - Edit dns to 8.8.8.8
+
 15 - I was able to login again now :)
