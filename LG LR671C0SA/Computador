@@ -3,13 +3,33 @@ Infelizmente esbranquiça tudo
 
 Deixe a TV Coordenar o Brilho de tela!
 Ou seja, no computador a saída de brilho deixe em 100.
-E ai na TV voce pode abaixar pra 50.
+E ai na TV voce pode abaixar pra 35.
 Se reduzir no PC e aumentar na TV a tela perde saturação.
 O resto padrão e/ou nenhum.
 
-Desligue o maldito contraste dinamico automatico.
-Nem com ou sem HDR isso nao funciona, só estraga as cores.
+CONFIGURAÇÃO PADRÃO
 
-Ajuste os demais só se necessário.
-Saturaçao 50.
-Ajuste Fino, Ajuste de Cores em Medio
+Imagem >
+Brilho 35
+Contraste 95
+Preto 50
+Desligue o maldito contraste dinamico automatico. Nem com ou sem HDR isso nao funciona, só estraga as cores.
+Gamma 2.2
+
+Cor >
+Profundidade 50
+Gama NATIVO
+Ajuste Fino, Ajuste de Cores em DESLIGADO
+
+Balanço de Branco > Temp 0
+
+Clareza >
+Nitidez 25
+Super Res ALTO
+Reduçao Ruido AUTO
+MPEG AUTO
+Gradaçao ALTO
+Cinema Real OFF
+
+
+
