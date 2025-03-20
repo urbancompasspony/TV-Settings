@@ -1,3 +1,7 @@
+TL;DR FORGET EVERYTHING, JUST USE YOUR SMARTPHONE, CREATE ACCESS POINT AND VOIĹA!
+
+If nothing works...
+
 1 - Go to settings
 
 2 - Go to general
